@@ -7,7 +7,7 @@
   
 * 🧠  I'm learning Python
 
-## Skills 💻
+# Skills 💻
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -23,7 +23,7 @@
 
 
 
-## Contact Me 📬 
+# Contact Me 📬 
 <p align="left"> 
 <a href="https://github.com/SladjanJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.instagram.com/s.jeremic_05/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="max-width: 100%;"></a>
