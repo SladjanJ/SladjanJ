@@ -2,8 +2,8 @@ Hi 👋,My name is Sladjan Jeremic
 
 * 🌍  I'm based in Podgorica, Montenegro
 
-* ✉️  You can contact me at sladjanjeremi123@gmail.com
-
+* You can contact me at [sladjanjeremi123@gmail.com](mailto:sladjanjeremi123@gmail.com)
+  
 * 🧠  I'm learning Python
 
 ## Skills 💻
