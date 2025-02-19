@@ -3,7 +3,7 @@
 
 * 🌍  I'm based in Podgorica, Montenegro
 
-* ![download](https://github.com/user-attachments/assets/98cf8a4d-8d08-4e4f-b654-69c9e0afc7fc) You can contact me at [sladjanjeremi123@gmail.com](mailto:sladjanjeremi123@gmail.com)
+* You can contact me at [sladjanjeremi123@gmail.com](mailto:sladjanjeremi123@gmail.com)
   
 * 🧠  I'm learning Python
 
