@@ -1,72 +1,145 @@
 # Hi there 👋 I'm Sladjan Jeremic
 
-### 💻 Web Developer | Python Data Analyst
+## 💻 Web Developer | Python Data Analyst
 
-I'm a Web Developer with experience in building modern, responsive websites and web applications using PHP, Laravel, JavaScript, and React.
+I'm a passionate **Web Developer** and **Python Data Analyst** from Montenegro with experience in building modern web applications and analyzing data to solve real-world problems.
 
-I also completed an **AI & Python Development** program, where I gained practical experience in Python, data analysis, machine learning, data visualization, and predictive modeling.
+I completed an **AI & Python Development** program where I gained hands-on experience in **Python, Machine Learning, Data Analysis, and Data Visualization**. I enjoy combining web technologies with data-driven solutions to create smart, efficient, and user-friendly applications.
 
-I enjoy combining web development with data analytics to create smart, data-driven applications that solve real business problems.
-
----
-
-## 🚀 About Me
-
-* 🌍 Based in Podgorica, Montenegro
-* 💻 Web Developer specializing in modern and responsive web applications
-* 🐍 Certified in AI & Python Development
-* 📊 Experienced with data analysis, machine learning and data visualization
-* 🤝 Open to Web Developer, Junior Data Analyst and freelance opportunities
-* 📧 Reach me at **[sladjanjeremi123@gmail.com](mailto:sladjanjeremi123@gmail.com)**
+* 🌍 Based in **Podgorica, Montenegro**
+* 💼 Open to **Web Developer**, **Junior Data Analyst**, and **Freelance** opportunities
+* 📧 Email: **[sladjanjeremi123@gmail.com](mailto:sladjanjeremi123@gmail.com)**
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-### Frontend
+<p align="left">
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Bootstrap
-* jQuery
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" height="42" alt="HTML5"/>
+</a>
 
-### Backend
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" height="42" alt="CSS3"/>
+</a>
 
-* PHP
-* Laravel
-* Python
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" height="42" alt="JavaScript"/>
+</a>
 
-### Data Analytics
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42" height="42" alt="React"/>
+</a>
 
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Jupyter Notebook
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/nextdotjs" width="42" height="42" alt="Next.js"/>
+</a>
 
-### Tools
+<a href="https://www.php.net/" target="_blank">
+<img src="https://cdn.simpleicons.org/php" width="42" height="42" alt="PHP"/>
+</a>
 
-* Git
-* GitHub
-* VS Code
-* Cursor AI
+<a href="https://laravel.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="42" height="42" alt="Laravel"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="42" height="42" alt="Python"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/pandas" width="42" height="42" alt="Pandas"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/numpy" width="42" height="42" alt="NumPy"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/scikitlearn" width="42" height="42" alt="Scikit-learn"/>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="42" height="42" alt="Bootstrap"/>
+</a>
+
+<a href="https://jquery.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="42" height="42" alt="jQuery"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/git" width="42" height="42" alt="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/github" width="42" height="42" alt="GitHub"/>
+</a>
+
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
 ### 🛒 Product Category Classifier
 
-A machine learning project built with Python, Pandas, and Scikit-learn that achieved **98.6% prediction accuracy** through data preprocessing, feature engineering, model training, and evaluation.
+Machine Learning project built using **Python**, **Pandas**, and **Scikit-learn**.
 
-### 🌐 Web Development Projects
+✔ Data preprocessing
 
-I develop responsive websites and web applications with a focus on clean UI/UX, performance optimization, API integration, and business solutions.
+✔ Feature engineering
+
+✔ Model training
+
+✔ Model evaluation
+
+✔ Achieved **98.6% prediction accuracy**
 
 ---
 
-## 🤝 Let's Connect
+### 🌐 Portfolio Website
 
-I'm always interested in collaborating on exciting web development and data analytics projects. Feel free to connect or reach out if you'd like to work together.
+My personal portfolio showcasing my web development projects, skills, and experience.
+
+---
+
+### 💻 Web Development
+
+I build:
+
+* Responsive websites
+* Landing pages
+* Business websites
+* Modern UI/UX
+* API integrations
+* Full-stack web applications
+
+---
+
+# 📊 Areas of Interest
+
+* Web Development
+* Data Analytics
+* Machine Learning
+* Artificial Intelligence
+* Dashboard Development
+* Business Intelligence
+
+---
+
+# 🤝 Connect With Me
+
+<a href="https://www.linkedin.com/in/sladjan-jeremic" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:sladjanjeremi123@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/gmail/gmail.png" width="40" height="40" alt="Gmail"/>
+</a>
+</p>
+</p>
+
+---
+
+⭐ **Always learning. Always building. Always improving.**
